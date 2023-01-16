@@ -18,21 +18,21 @@ Informe Proyecto
 
 # Ejercicio 
 
-Materiales
+## Materiales
 
-2 conmutadores
+* 2 conmutadores
 
-Boquilla de foco
+* Boquilla de foco
 
-foco
+* foco
 
-cable numero 12 0 14
+* cable numero 12 0 14
 
-conector de enchufe  
+* conector de enchufe  
 
-tabla 
+* tabla 
 
-PASOS
+## PASOS
 
 Realizamos huecos en la taba los el cual pasen los conmutadores y la boquilla de foco
 

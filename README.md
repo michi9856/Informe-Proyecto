@@ -51,5 +51,10 @@ Por último unimos el conector de enchufe y colocamos el foco
 
 Algo que hay que tener en cuenta es que al momento de hacer la conexión debemos usar el cable de fase  con respecto al interruptor , ya que si lo pusieramos en neutro los cables seguirán energizados , lo que puede ocasionar accidentes
 
+# VIDEO
+
+# CONCLUSIONES
+
+# BIBLIOGRAFIA
 
 

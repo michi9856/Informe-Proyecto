@@ -1,20 +1,28 @@
 # Informe-Proyecto
 Informe Proyecto
+Fundamentos de circuitos electricos
 
+Ingeniero Darwin Omar Alulema Flores
 
-# OBJETIVOS
+• Michael Bryan Toroche Quishpe
 
+• Jhon Steven Quingatuña Moreano
 
+• Anthony Javier Cevallos Ramírez
+
+# 1. OBJETIVOS
+## OBJETIVO GENERAL
+
+•  Aplicar los conocimientos y las definiciones adquiridas para el correcto funcionamineto del circuito.
+• Tener un conocimineto basico de los materiales que bamos a usar.
+• Interpretar de una forma mas general la intalacion de este circuito, es decir darle uso en la vida cotidiana, un conocimento que odemos aplicar en momentos practicos.
 
 # MARCO TEORICO
 
-
-
-
-
-
-
-
+• 
+• 
+• 
+• 
 
 # Ejercicio 
 

@@ -11,20 +11,30 @@ Ingeniero Darwin Omar Alulema Flores
 • Anthony Javier Cevallos Ramírez
 
 # 1. OBJETIVOS
+
 ## OBJETIVO GENERAL
 
 •  Aplicar los conocimientos y las definiciones adquiridas para el correcto funcionamineto del circuito.
+
 • Tener un conocimineto basico de los materiales que bamos a usar.
+
 • Interpretar de una forma mas general la intalacion de este circuito, es decir darle uso en la vida cotidiana, un conocimento que odemos aplicar en momentos practicos.
 
-# MARCO TEORICO
+## OBJETIVOS ESPECIFICOS
 
-• 
-• 
-• 
-• 
+• Analizar el circuito dado de forma real, es decir armarlo uno mismo.
 
-# Ejercicio 
+• Aplicar los conceptos aprendidos como el circuito de thevenin .
+
+• Determinar la forma que que dicho circuito puede reducuirse a un conmutador, es decir una conexion mas simple.
+
+• Localizar fallas en circuitos.
+
+
+# 2. MARCO TEORICO
+
+
+# 3. Ejercicio 
 
 ## Materiales
 
@@ -61,10 +71,19 @@ Por último unimos el conector de enchufe y colocamos el foco
 
 Algo que hay que tener en cuenta es que al momento de hacer la conexión debemos usar el cable de fase  con respecto al interruptor , ya que si lo pusieramos en neutro los cables seguirán energizados , lo que puede ocasionar accidentes
 
-# VIDEO
+# 4. VIDEO
 
-# CONCLUSIONES
 
-# BIBLIOGRAFIA
+# 5. CONCLUSIONES
+
+• Al elaborar este circuito de forma real comprendemos de una forma mas sencilla el funcionamiento de esta conexion.
+
+• Puedo decir que al finalisar el proyecto no me funciono pues los cables estaban mal conectados e hizo corto.
+
+• Hay muchas formas de armar el circuito, no especificamente como en el video, entonces buscamos una forma de que funcione pues hubo dificultades.
+
+# 6. BIBLIOGRAFIA
+
+TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
 
 

@@ -91,4 +91,11 @@ https://youtu.be/OTbKhbRM01A
 
 TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
 
+Circuito En Escalera. (s/f). Cienciayt.com. Recuperado el 17 de enero de 2023, de https://cienciayt.com/electronica/circuitos-electricos/circuito-en-escalera/
+
+Rueda Vásquez, L. F., Universidad Industrial de Santander, Barrero Pérez, J. G., Duarte Gualdrón, C. A., Universidad Industrial de Santander, & Universidad Industrial de Santander. (2017). El conmutador inteligente de potencia y la sub-medición por circuito como herramientas para la gestión energética residencial. Revista UIS ingenierías, 16(1), 35–46. https://doi.org/10.18273/revuin.v16n1-2017004
+
+
+
+
 video de referencia: https://www.youtube.com/watch?v=q3oUc9_qnyc

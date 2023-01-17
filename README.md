@@ -18,7 +18,7 @@ Ingeniero Darwin Omar Alulema Flores
 
 • Tener un conocimineto basico de los materiales que bamos a usar.
 
-• Interpretar de una forma mas general la intalacion de este circuito, es decir darle uso en la vida cotidiana, un conocimento que odemos aplicar en momentos practicos.
+• Interpretar de una forma mas general la intalacion de este circuito, es decir darle uso en la vida cotidiana, un conocimiento que podemos aplicar en momentos practicos.
 
 ## OBJETIVOS ESPECIFICOS
 
@@ -26,7 +26,7 @@ Ingeniero Darwin Omar Alulema Flores
 
 • Aplicar los conceptos aprendidos como el circuito de thevenin .
 
-• Determinar la forma que que dicho circuito puede reducuirse a un conmutador, es decir una conexion mas simple.
+• Determinar la forma de que dicho circuito puede reducuirse a un conmutador, es decir una conexion mas simple.
 
 • Localizar fallas en circuitos.
 
@@ -77,6 +77,7 @@ Algo que hay que tener en cuenta es que al momento de hacer la conexión debemos
 
 # 4. VIDEO
 
+https://youtu.be/OTbKhbRM01A
 
 # 5. CONCLUSIONES
 
@@ -90,4 +91,4 @@ Algo que hay que tener en cuenta es que al momento de hacer la conexión debemos
 
 TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
 
-
+video de referencia: https://www.youtube.com/watch?v=q3oUc9_qnyc

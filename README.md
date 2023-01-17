@@ -32,7 +32,9 @@ Ingeniero Darwin Omar Alulema Flores
 
 
 # 2. MARCO TEORICO
-![image](https://user-images.githubusercontent.com/116775893/212783117-82a0f8ad-a339-456d-8a33-cab63f726611.png)
+![image](https://user-images.githubusercontent.com/116775893/212785579-2d672684-85c3-49b9-9ab6-c35897da5406.png)
+![image](https://user-images.githubusercontent.com/116775893/212785507-b22008ce-1a03-4f77-a6db-18739490230e.png)
+
 
 
 
